@@ -1,0 +1,84 @@
+2024-09-29 00:13:23,390 - INFO - Logging setup complete.
+2024-09-29 00:13:28,551 - INFO - Clash 内核已启动
+2024-09-29 00:13:28,568 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/configs
+2024-09-29 00:13:28,568 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:13:32,407 - INFO - Clash 内核已停止
+2024-09-29 00:13:43,750 - INFO - Logging setup complete.
+2024-09-29 00:13:45,807 - INFO - Clash 内核已启动
+2024-09-29 00:13:45,811 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/configs
+2024-09-29 00:13:45,811 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:13:46,639 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/proxies
+2024-09-29 00:14:05,465 - INFO - Clash 内核已停止
+2024-09-29 00:14:11,221 - INFO - Clash 内核已启动
+2024-09-29 00:14:11,222 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/configs
+2024-09-29 00:14:11,223 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:14:15,979 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/proxies
+2024-09-29 00:14:44,482 - INFO - Clash 内核已停止
+2024-09-29 00:14:46,216 - INFO - Clash 内核已启动
+2024-09-29 00:14:46,223 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/configs
+2024-09-29 00:14:46,224 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:14:46,842 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/proxies
+2024-09-29 00:14:52,875 - INFO - Clash 内核已停止
+2024-09-29 00:17:29,515 - INFO - Logging setup complete.
+2024-09-29 00:17:39,131 - INFO - Clash 内核已启动
+2024-09-29 00:17:39,148 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/configs
+2024-09-29 00:17:39,148 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:17:46,632 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:55504/proxies
+2024-09-29 00:17:50,535 - INFO - Clash 内核已停止
+2024-09-29 00:22:32,797 - INFO - Logging setup complete.
+2024-09-29 00:22:39,317 - INFO - Clash 内核已启动
+2024-09-29 00:22:39,328 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/configs
+2024-09-29 00:22:39,328 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:22:50,334 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:23:18,876 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:23:23,663 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:23:33,262 - INFO - Clash 内核已停止
+2024-09-29 00:23:42,682 - INFO - Clash 内核已启动
+2024-09-29 00:23:42,694 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/configs
+2024-09-29 00:23:42,694 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:23:44,158 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:23:57,386 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:24:09,994 - INFO - Clash 内核已停止
+2024-09-29 00:24:43,969 - INFO - Clash 内核已启动
+2024-09-29 00:24:43,975 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/configs
+2024-09-29 00:24:43,975 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:24:45,202 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:24:50,215 - INFO - Clash 内核已停止
+2024-09-29 00:25:07,904 - INFO - Clash 内核已启动
+2024-09-29 00:25:07,906 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/configs
+2024-09-29 00:25:07,907 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:25:33,775 - INFO - Clash 内核已停止
+2024-09-29 00:26:23,581 - INFO - Logging setup complete.
+2024-09-29 00:26:30,026 - INFO - Clash 内核已启动
+2024-09-29 00:26:30,044 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/configs
+2024-09-29 00:26:30,045 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:26:35,943 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:26:53,844 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:26:58,414 - INFO - Clash 内核已停止
+2024-09-29 00:28:08,568 - INFO - Logging setup complete.
+2024-09-29 00:28:11,067 - INFO - Clash 内核已启动
+2024-09-29 00:28:11,070 - ERROR - 获取 Clash 配置时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/configs
+2024-09-29 00:28:11,071 - ERROR - 未能获取 Clash 配置
+2024-09-29 00:28:26,101 - ERROR - 获取 Clash 代理列表时出错: 401 Client Error: Unauthorized for url: http://127.0.0.1:56393/proxies
+2024-09-29 00:28:30,368 - INFO - Clash 内核已停止
+2024-09-29 00:51:00,758 - INFO - Logging setup complete.
+2024-09-29 00:51:12,695 - INFO - Clash 内核已启动
+2024-09-29 00:51:12,695 - ERROR - 获取 Clash 配置时出错: 'ClashAPIClient' object has no attribute 'get_configs'
+2024-09-29 00:51:15,759 - INFO - Clash 内核已停止
+2024-09-29 00:53:20,611 - INFO - Logging setup complete.
+2024-09-29 00:53:47,347 - INFO - Logging setup complete.
+2024-09-29 00:53:56,543 - INFO - Clash 内核已启动
+2024-09-29 00:53:56,543 - ERROR - 获取 Clash 配置时出错: 'ClashAPIClient' object has no attribute 'get_configs'
+2024-09-29 00:54:09,627 - ERROR - 获取 Clash 代理列表时出错: No connection adapters were found for '127.0.0.1:57765/proxies'
+2024-09-29 00:54:16,880 - INFO - Clash 内核已停止
+2024-09-29 00:54:49,693 - INFO - Logging setup complete.
+2024-09-29 00:54:56,318 - INFO - Clash 内核已启动
+2024-09-29 00:54:56,318 - ERROR - 获取 Clash 配置时出错: 'ClashAPIClient' object has no attribute 'get_configs'
+2024-09-29 00:55:11,216 - ERROR - 获取 Clash 代理列表时出错: No connection adapters were found for '127.0.0.1:57765/proxies'
+2024-09-29 00:55:32,000 - INFO - Clash 内核已停止
+2024-09-29 00:59:07,972 - INFO - Logging setup complete.
+2024-09-29 00:59:16,309 - INFO - Clash 内核已启动
+2024-09-29 00:59:16,309 - ERROR - 获取 Clash 配置时出错: 'ClashAPIClient' object has no attribute 'get_configs'
+2024-09-29 00:59:17,475 - ERROR - 获取 Clash 代理列表时出错: No connection adapters were found for '127.0.0.1:58130/proxies'
+2024-09-29 00:59:38,670 - ERROR - 获取 Clash 代理列表时出错: No connection adapters were found for '127.0.0.1:58130/proxies'
+2024-09-29 01:01:20,865 - INFO - Logging setup complete.

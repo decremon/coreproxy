@@ -1,0 +1,51 @@
+2024-09-28 23:28:10,889 - INFO - Logging setup complete.
+2024-09-28 23:33:47,864 - INFO - Logging setup complete.
+2024-09-28 23:33:54,510 - ERROR - [WinError 10061] 由于目标计算机积极拒绝，无法连接。 - goodbye
+2024-09-28 23:33:54,510 - ERROR - error from callback <bound method LogListener.on_close of <src.log_listener.LogListener object at 0x000001D9088728D0>>: LogListener.on_close() takes 2 positional arguments but 4 were given
+2024-09-28 23:37:13,295 - INFO - Logging setup complete.
+2024-09-28 23:41:37,274 - INFO - Logging setup complete.
+2024-09-28 23:49:06,487 - INFO - Logging setup complete.
+2024-09-28 23:49:17,916 - INFO - Clash 内核已启动
+2024-09-28 23:49:17,924 - ERROR - 未能获取到 Clash 的代理模式，设置为默认值 '未知'
+2024-09-28 23:49:21,398 - INFO - 代理列表已更新
+2024-09-28 23:49:26,187 - ERROR - 切换到代理失败: Tokyo V2
+2024-09-28 23:49:35,776 - ERROR - 切换到代理失败: GLOBAL
+2024-09-28 23:49:42,717 - ERROR - 切换到代理失败: DIRECT
+2024-09-28 23:50:03,062 - INFO - Clash 内核已停止
+2024-09-28 23:50:07,872 - INFO - Clash 内核已启动
+2024-09-28 23:50:07,886 - ERROR - 未能获取到 Clash 的代理模式，设置为默认值 '未知'
+2024-09-28 23:50:15,729 - INFO - Clash 内核已停止
+2024-09-28 23:50:45,255 - INFO - Logging setup complete.
+2024-09-28 23:50:48,617 - INFO - Clash 内核已启动
+2024-09-28 23:50:54,922 - INFO - 代理列表已更新
+2024-09-28 23:50:56,819 - ERROR - 切换到代理失败: DIRECT
+2024-09-28 23:50:59,820 - ERROR - 切换到代理失败: GLOBAL
+2024-09-28 23:51:02,693 - ERROR - 切换到代理失败: Tokyo V2
+2024-09-28 23:51:05,346 - INFO - Clash 内核已停止
+2024-09-28 23:52:42,499 - INFO - Logging setup complete.
+2024-09-28 23:52:49,285 - INFO - Clash 内核已启动
+2024-09-28 23:52:51,313 - ERROR - 获取 Clash 配置时出错: HTTPConnectionPool(host='127.0.0.1', port=9090): Max retries exceeded with url: /configs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000221395659D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-09-28 23:53:05,809 - INFO - Clash 内核已停止
+2024-09-28 23:54:43,674 - INFO - Logging setup complete.
+2024-09-28 23:54:47,349 - INFO - Clash 内核已启动
+2024-09-28 23:54:49,366 - ERROR - 获取 Clash 配置时出错: HTTPConnectionPool(host='127.0.0.1', port=9090): Max retries exceeded with url: /configs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000010E186F9070>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-09-28 23:55:47,632 - INFO - Logging setup complete.
+2024-09-28 23:55:50,404 - INFO - Clash 内核已启动
+2024-09-28 23:55:52,424 - ERROR - 获取 Clash 配置时出错: HTTPConnectionPool(host='127.0.0.1', port=9090): Max retries exceeded with url: /configs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F54D58C770>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-09-28 23:56:16,418 - INFO - Clash 内核已停止
+2024-09-28 23:59:59,925 - INFO - Logging setup complete.
+2024-09-29 00:00:25,898 - INFO - Clash 内核已启动
+2024-09-29 00:00:27,905 - ERROR - 获取 Clash 配置时出错: HTTPConnectionPool(host='127.0.0.1', port=9090): Max retries exceeded with url: /configs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028BC63AC3B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-09-29 00:02:14,175 - INFO - Clash 内核已停止
+2024-09-29 00:06:18,289 - INFO - Logging setup complete.
+2024-09-29 00:06:26,151 - INFO - Clash 内核已启动
+2024-09-29 00:06:28,171 - ERROR - 获取 Clash 配置时出错: HTTPConnectionPool(host='127.0.0.1', port=9090): Max retries exceeded with url: /configs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002093C8CC3B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-09-29 00:06:55,427 - INFO - Clash 内核已停止
+2024-09-29 00:08:39,323 - INFO - Logging setup complete.
+2024-09-29 00:08:43,251 - INFO - Clash 内核已启动
+2024-09-29 00:08:45,279 - ERROR - 获取 Clash 配置时出错: HTTPConnectionPool(host='127.0.0.1', port=9090): Max retries exceeded with url: /configs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BF3874C3B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-09-29 00:09:33,449 - INFO - Clash 内核已停止
+2024-09-29 00:09:58,526 - INFO - Logging setup complete.
+2024-09-29 00:10:08,127 - INFO - Clash 内核已启动
+2024-09-29 00:10:10,144 - ERROR - 获取 Clash 配置时出错: HTTPConnectionPool(host='127.0.0.1', port=9090): Max retries exceeded with url: /configs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019E3192E3F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-09-29 00:10:14,744 - INFO - Clash 内核已停止
